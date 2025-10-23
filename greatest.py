@@ -9,4 +9,5 @@ else num1-=5
 print("hello")
 print("welcome")
 print("hai")
+print("hai")
 print("fghr")
