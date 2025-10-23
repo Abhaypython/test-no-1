@@ -7,3 +7,4 @@ if num1>num2:num1+=10
 else num1-=5
 	print(num1)
 print("hello")
+print("welcome")
